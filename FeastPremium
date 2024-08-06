@@ -88,7 +88,7 @@ local function hij()
     if vbn.Text == "" or vbn.Text == bcd then
         if vbn.Text == bcd then
             qiu:Destroy()
-            loadstring(game:HttpGet("https://raw.githubusercontent.com/XFeastXl/Testi/main/blablablatest"))()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/XFeastXl/AWODIHAWJIROH4-WR-JIAdiawhio/main/dWODHiwoaeDH8234y(HI*%40YH(*%24%40YFcsauidAWEYH(PEQE)!(EHDO%3APp%5Bdoawpdjjnsa"))()
         else
             print("Please enter a code!")
         end
